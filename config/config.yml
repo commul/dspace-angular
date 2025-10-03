@@ -84,10 +84,13 @@ languages:
     active: false
   - code: cs
     label: Čeština
-    active: true
+    active: false
   - code: de
     label: Deutsch
-    active: false
+    active: true
+  - code: it
+    label: Italiano
+    active: true
   - code: es
     label: Español
     active: false
