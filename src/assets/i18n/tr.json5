@@ -2472,6 +2472,10 @@
   // TODO New key - Add a translation
   "curation-task.task.citationpage.label": "Generate Citation Page",
 
+  // "curation-task.task.checkhandles.label": "Check Item Handles",
+  // TODO New key - Add a translation
+  "curation-task.task.checkhandles.label": "Check Item Handles",
+
   // "curation-task.task.checklinks.label": "Check Links in Metadata",
   // TODO Source message changed - Revise the translation
   "curation-task.task.checklinks.label": "Metadatalardaki Bağlantıları Kontrol Et",

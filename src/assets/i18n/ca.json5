@@ -2315,6 +2315,10 @@
   // TODO Source message changed - Revise the translation
   "curation-task.task.citationpage.label": "Generar pàgina de cita",
 
+  // "curation-task.task.checkhandles.label": "Check Item Handles",
+  // TODO New key - Add a translation
+  "curation-task.task.checkhandles.label": "Check Item Handles",
+
   // "curation-task.task.checklinks.label": "Check Links in Metadata",
   // TODO Source message changed - Revise the translation
   "curation-task.task.checklinks.label": "Comprovar enllaços a metadades",

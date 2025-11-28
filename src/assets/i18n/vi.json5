@@ -2309,6 +2309,10 @@
   // "curation-task.task.citationpage.label": "Generate Citation Page",
   "curation-task.task.citationpage.label": "Tạo trang trích dẫn",
 
+  // "curation-task.task.checkhandles.label": "Check Item Handles",
+  // TODO New key - Add a translation
+  "curation-task.task.checkhandles.label": "Check Item Handles",
+
   // "curation-task.task.checklinks.label": "Check Links in Metadata",
   "curation-task.task.checklinks.label": "\"Kiểm tra các link trong thông tin mô tả\"",
 

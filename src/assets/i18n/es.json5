@@ -2249,6 +2249,10 @@
   // "curation-task.task.citationpage.label": "Generate Citation Page",
   "curation-task.task.citationpage.label": "Generar página de cita",
 
+  // "curation-task.task.checkhandles.label": "Check Item Handles",
+  // TODO New key - Add a translation
+  "curation-task.task.checkhandles.label": "Check Item Handles",
+
   // "curation-task.task.checklinks.label": "Check Links in Metadata",
   "curation-task.task.checklinks.label": "Comprobar enlaces en metadatos",
 

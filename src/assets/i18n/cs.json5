@@ -2242,7 +2242,8 @@
 
   // "curation-task.task.citationpage.label": "Generate Citation Page",
   "curation-task.task.citationpage.label": "Vytvořit stránku s citacemi",
-
+  // "curation-task.task.checkhandles.label": "Check Item Handles",
+  "curation-task.task.checkhandles.label": "Zkontrolovat handly v záznamech",
   // "curation-task.task.checklinks.label": "Check Links in Metadata",
   "curation-task.task.checklinks.label": "Zkontrolovat odkazy v metadatech",
 
